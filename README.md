@@ -10,7 +10,7 @@ This is my **first web development project**, where I created a basic website th
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the website](https://your-github-username.github.io/odin-recipes)  
+👉 [Click here to view the website](https://om-upadhyay-0000.github.io/odin-recipes/)  
 *(Replace the link with your GitHub Pages URL)*
 
 
